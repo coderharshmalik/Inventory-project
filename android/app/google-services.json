@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607875310196",
+    "project_id": "inventory-81b54",
+    "storage_bucket": "inventory-81b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607875310196:android:8b9286a086d5aeedfba721",
+        "android_client_info": {
+          "package_name": "com.antonyignatiusthenrajaf.inventory_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607875310196-9dnfioluno6vg216htgnnf1dc86kigr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCOdJcnz_NWBgquXPYODBPLHNZ-SQUwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607875310196-9dnfioluno6vg216htgnnf1dc86kigr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
